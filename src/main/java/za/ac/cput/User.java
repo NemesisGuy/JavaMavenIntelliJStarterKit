@@ -19,6 +19,7 @@ public class User {
     }
 
     public void setLoginId(String loginId) {
+
         this.loginId = loginId;
 
     }
