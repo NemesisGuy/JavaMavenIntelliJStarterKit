@@ -11,7 +11,6 @@ public class User {
     }
 
     public static User createUser(String s, String userPassword) {
-
         return null;
     }
 

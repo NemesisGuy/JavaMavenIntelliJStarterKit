@@ -26,6 +26,5 @@ class UserTest {
     @Test
     public void timeout() throws InterruptedException {
         TimeUnit.SECONDS.sleep(5);
-
     }
 }
