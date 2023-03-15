@@ -38,6 +38,7 @@ public class AccountTest {
         Account acc3 = new Account(8548, "Arnold James", "Cheque");
 
         fail(String.valueOf(acc1 == acc3));
+
     }
 
     @Test
